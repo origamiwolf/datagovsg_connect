@@ -1,0 +1,15 @@
+{
+  "dataStudio": {
+    "name":"Data.Gov.SG Data Connector",
+    "logoUrl": "https://raw.githubusercontent.com/npm/logos/master/%22npm%22%20lockup/npm-logo-simplifed-with-white-space.png",
+    "company":"Codelab user",
+    "companyUrl": "https://developers.google.com/datastudio",
+    "addonUrl": "https://github.com/google/datastudio/tree/master/community-connectors/datagovsg-connector",
+    "supportUrl": "https://github.com/google/datastudio/issues",
+    "description": "Generic connector for Data.gov.sg",
+    "sources": ["datagovsg"]
+  },
+  "exceptionLogging": "STACKDRIVER"
+  
+
+}
